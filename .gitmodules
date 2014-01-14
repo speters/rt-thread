@@ -1,0 +1,3 @@
+[submodule "bsp/xmc4500/Libraries/CMSIS"]
+	path = bsp/xmc4500/Libraries/CMSIS
+	url = git@github.com:speters/CMSIS.git
